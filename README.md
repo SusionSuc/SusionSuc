@@ -2,7 +2,7 @@
 
 目前字节杭州缺大量Android开发，欢迎大家投简历，或私聊详情 :
 
-![](avatar.jpeg)
+![](avatar.png)
 
 
 
